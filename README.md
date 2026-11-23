@@ -6,8 +6,8 @@ E<sup>2</sup>GenF: Universal AIGC Image Detection based on Edge Enhanced General
 ### TODO
 We are working hard on the following items.
 - [x] Release paper
-- [ ] Release inference scripts
-- [ ] Release checkpoints
+- [x] Release inference scripts
+- [x] Release checkpoints
 - [x] Release datasets
 ## Datasets
 - [AIGCDetectBenchmark](https://huggingface.co/datasets/jzousz/AIGCDetect_testset/tree/main)
