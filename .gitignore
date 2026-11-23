@@ -1,9 +1,9 @@
-*.pt
+# *.pt
 .classpath
 .project
 .settings/
 .vscode/
-*.pth
+# *.pth
 *.bullx 
-*.sh
+# *.sh
 .*/

@@ -1,8 +1,8 @@
 
 *.pyc
-*.pth
+# *.pth
 *.log
-*.pt
+# *.pt
 
 *.pyc
 *.pyo
